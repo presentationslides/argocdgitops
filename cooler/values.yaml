@@ -2,7 +2,7 @@ image:
   repository: brudnyhenry/zartiswebinar
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "sha-6b3390c"
+  tag: "sha-8ebcec4"
 commit: "main"
 imagePullSecrets: []
 nameOverride: ""
